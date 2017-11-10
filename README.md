@@ -1,0 +1,2 @@
+# PyVoiceToWord
+AipSpeech and pyaudio
